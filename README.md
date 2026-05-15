@@ -4,4 +4,6 @@
 
 该实验为2026年春季学期实验。使用的软件为Logisim。
 
+预祝学习借鉴愉快！（意味深）
+
 ![Ako_Udagawa_emoji](Main_README_emoji.jpg)
