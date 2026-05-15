@@ -6,4 +6,6 @@
 
 预祝学习借鉴愉快！（意味深）
 
-![Ako_Udagawa_emoji](Main_README_emoji.jpg)
+<p align="right">
+  <img src="Main_README_emoji.jpg" alt="Ako_Udagawa_emoji" width="100">
+</p>
